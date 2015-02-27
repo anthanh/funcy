@@ -1,0 +1,10 @@
+{
+  "name": "funcy",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "underscore": "~1.8.2",
+    "jquery-validation": "~1.13.1",
+    "hello": "~1.4.3"
+  }
+}
