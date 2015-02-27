@@ -1,6 +1,6 @@
 # Funcy
 
-This project is based by fancy.com only for educational purposes
+This project is based in [fancy](http://fancy.com) only for educational purposes
 
 ## Requisites
 
